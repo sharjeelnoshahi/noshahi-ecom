@@ -447,7 +447,6 @@ h3 {
 @media (max-width: 500px) {
   .category-section {
     /* margin: 0 1rem; */
-    border: 1px solid red;
     margin-left: 0rem;
     padding: 0rem;
   }
